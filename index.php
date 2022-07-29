@@ -29,9 +29,9 @@ if ($recipient && $email) {
 	//Port to connect smtp
 	$mail->Port = "587";
 	//Set gmail username
-	$mail->Username = "rogermooresangol@gmail.com";
+	$mail->Username = "";
 	//Set gmail password
-	$mail->Password = "qgloxzeqlpeaetwx";
+	$mail->Password = "";
 	//Email subject
 	$mail->Subject = "Title";
 	//Set sender email
